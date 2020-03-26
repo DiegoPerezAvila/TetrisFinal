@@ -20,7 +20,7 @@ import com.example.logica.Tetris;
 
 import org.w3c.dom.Text;
 // Hola, este es el nuevo proyecto
-// listo======
+// listo======/
 public class MainActivity extends AppCompatActivity {
 
     private GridLayout layoutMatriz;
