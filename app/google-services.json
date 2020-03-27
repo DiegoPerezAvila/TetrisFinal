@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800251061316",
+    "firebase_url": "https://tetrisfinal-dd4a8.firebaseio.com",
+    "project_id": "tetrisfinal-dd4a8",
+    "storage_bucket": "tetrisfinal-dd4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800251061316:android:9d3a678a73a88726998811",
+        "android_client_info": {
+          "package_name": "com.uddistrital.TetrisFinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800251061316-or3jufn42j6kur6vbikkgvoc06bm75nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQ74tKkDdw1NgWFFZdAlq6iOy88pioZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800251061316-or3jufn42j6kur6vbikkgvoc06bm75nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
